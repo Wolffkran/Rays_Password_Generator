@@ -15,7 +15,7 @@ Constructing this helped me learn more about arrays and functions
 
 ## Usage
 
-![Application Screenshot](assets/images/screenshot.png)
+![Application Screenshot](resources/images/screenshot.png)
 
 ## License
 
