@@ -7,7 +7,11 @@ Constructing this helped me learn more about arrays and functions.
 
 ## Installation
 
+1. Clone the repository to your local machine: https://github.com/Wolffkran/Wolffkrans_Module_1_Project_3_Assignment.git
 
+2. Navigate to the project directory: cd Wolffkrans_Module_1_Project_3_Assignment
+
+3. Open your web browser and visit `/Wolffkrans_Module_1_Project_3_Assignment/index.html` to view the application.
 
 ## Usage
 
