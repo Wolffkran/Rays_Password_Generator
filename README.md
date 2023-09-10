@@ -3,7 +3,7 @@
 ## Description
 
 The purpose of this project was to create a website with the capability of generating passwords for personal use.
-Constructing this helped me learn more about arrays and functions.
+Constructing this helped me learn more about arrays and functions
 
 ## Installation
 
